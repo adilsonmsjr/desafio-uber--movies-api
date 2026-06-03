@@ -1,3 +1,6 @@
 ### Get all movies
 
 GET http://localhost:8080/movies
+
+### Get a movie by Title
+GET http://localhost:8080/movies?title=Milk
